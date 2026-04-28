@@ -1,0 +1,181 @@
+# Pipeline — Pending URLs
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4661125005 | Spring Health | Senior Product Manager, Workplace Care
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5850674004 | Natera | Sr. Product Manager - AI & Data
+- [ ] https://job-boards.greenhouse.io/mcghealth/jobs/8488415002 | MCG Health | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/healthie/jobs/4597301005 | Healthie | Senior Product Manager, AI Initiatives
+- [ ] https://boards.greenhouse.io/iterativehealth/jobs/4006111006 | Iterative Health | Senior Product Manager - Data Foundations
+- [ ] https://job-boards.greenhouse.io/jobsatphamily/jobs/4750261008 | Phamily | Senior Product Manager (AI Health-Tech SaaS, Remote)
+- [ ] https://job-boards.greenhouse.io/webchartnow/jobs/4181050009 | WebChart / Enterprise Health | Senior Product Manager – Enterprise Health (Clinical Domain)
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7402427 | Omada Health | Director, Product Management
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7655330003 | Cohere Health | Manager, Product Management
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7488023 | Recursion Pharmaceuticals | Staff Product Manager, Agentic Systems
+- [ ] https://flatiron.com/careers/open-positions/job?gh_jid=7760291 | Flatiron Health | Product Manager - Document Intelligence Platform
+- [ ] https://job-boards.greenhouse.io/1uphealth/jobs/4576352006 | 1upHealth | VP, Product
+- [ ] https://boards.greenhouse.io/samsungresearchamerica/jobs/7584774002 | Samsung Research America | Director, Product Management, Digital Health
+- [ ] https://job-boards.greenhouse.io/sifthealthcare/jobs/5136453008 | Sift Healthcare | Director of Product Management
+- [ ] https://job-boards.greenhouse.io/strivehealth/jobs/4604079006 | Strive Health | VP, Product Management
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/4679598007 | SmarterDx | Director of Product, Core Product
+- [ ] https://job-boards.greenhouse.io/solera/jobs/7411102 | Solera Health | VP of Product
+- [ ] https://jobs.ashbyhq.com/tandem-health/f713974b-5daf-474e-b890-98e65e4d8f64 | Tandem Health | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/Iodine%20Software/0b86233e-38d6-44ca-9455-f26db690d39b | Iodine Software | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/Iodine%20Software/485d8498-cf8c-43c0-a5b0-31558959f52e | Iodine Software | Product Manager
+- [ ] https://jobs.ashbyhq.com/anterior/215b3564-d969-4123-afbc-e531acd21c7f | Anterior | Product Manager
+- [ ] https://jobs.ashbyhq.com/bayesianhealth/8db2cfe0-197f-4170-9cb3-028d4a6f31cb/application | Bayesian Health | Product Manager
+- [ ] https://jobs.ashbyhq.com/Vytalize%20Health/7b65fb1b-5822-4f5e-a674-4000d319d820/application | Vytalize Health | Principal Product Manager, Clinical Data Acquisition & EMR Integration
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/c9eb192e-3029-460d-8503-233f2d2586a5 | Hippocratic AI | Product Manager, App Store
+- [ ] https://jobs.ashbyhq.com/Unlearn/a5f2acde-f283-4847-b3ac-1dc742b48140/application | Unlearn | Senior Product Manager
+- [ ] https://jobs.lever.co/circadiahealth/41809a7d-97b7-4158-b3ab-8c05b689474e | Circadia Health | Senior Product Manager
+- [ ] https://jobs.lever.co/EnaraHealth/f1e003b0-f3ae-4eb3-b53b-97f69865d707 | Enara Health | Senior Product Manager, Clinical Execution & Team Catalyst
+- [ ] https://jobs.lever.co/arcadia/03edbcd0-29b0-49d5-bf1c-c843013e1422 | Arcadia | Senior Product Manager
+- [ ] https://jobs.lever.co/dexcarehealth/a8ebecdd-d36e-470f-9edb-4243c52d8121 | DexCare | Senior Product Manager
+- [ ] https://jobs.lever.co/caremessage/553950dc-9db0-49e8-bd5e-5fb8d36503fd | CareMessage | Senior Product Manager - Data & Interoperability
+- [ ] https://jobs.lever.co/kaiahealth/b54ce003-845d-4a03-ae6b-f8e0d17c0f0c | Kaia Health | Director of Product
+- [ ] https://jobs.lever.co/swordhealth/71759e08-614f-4518-b4da-ae45bb1e0632 | Sword Health | Senior Product Manager, Consumer Growth
+
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7598931003 | Cohere Health | Director, Data & AI
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7568249003 | Cohere Health | Sr Claims Auditor
+- [ ] http://www.onemedical.com/careers/all-departments/7697399?gh_jid=7697399 | Amazon Health (One Medical) | Early Career - Family Medicine Physician - Sign - On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7638125?gh_jid=7638125 | Amazon Health (One Medical) | Early career - Primary Care Physician - Adult Medicine MD or DO - Sign-on Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671662?gh_jid=7671662 | Amazon Health (One Medical) | Family Medicine Physician (Cow Hollow) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671663?gh_jid=7671663 | Amazon Health (One Medical) | Family Medicine Physician (Laurel Heights) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671664?gh_jid=7671664 | Amazon Health (One Medical) | Family Medicine Physician (Noe Valley) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7683368?gh_jid=7683368 | Amazon Health (One Medical) | Family Medicine Physician - Sign on Bonus available
+- [ ] http://www.onemedical.com/careers/all-departments/7699158?gh_jid=7699158 | Amazon Health (One Medical) | Family Medicine Physician - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7778328?gh_jid=7778328 | Amazon Health (One Medical) | Family Medicine Physician- Sign On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671678?gh_jid=7671678 | Amazon Health (One Medical) | Family Medicine Physician (West Portal)- Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7815727?gh_jid=7815727 | Amazon Health (One Medical) | Family Nurse Practitioner or Physician Assistant (Cow Hollow) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7762327?gh_jid=7762327 | Amazon Health (One Medical) | Family Nurse Practitioner or Physician Assistant [Signing Bonus available]
+- [ ] http://www.onemedical.com/careers/all-departments/7683378?gh_jid=7683378 | Amazon Health (One Medical) | Family Nurse Practitioner or Physician Assistant - Sign on Bonus available
+- [ ] http://www.onemedical.com/careers/all-departments/7695391?gh_jid=7695391 | Amazon Health (One Medical) | Family Nurse Practitioner or Physician Assistant- Sign on Bonus available
+- [ ] http://www.onemedical.com/careers/all-departments/7655320?gh_jid=7655320 | Amazon Health (One Medical) |  Family Nurse Practitioner or Physician Assistant - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7808861?gh_jid=7808861 | Amazon Health (One Medical) | Family Nurse Practitioner or Physician Assistant - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7816436?gh_jid=7816436 | Amazon Health (One Medical) | Family Physician - Domain Northside Office (ages 0+)
+- [ ] http://www.onemedical.com/careers/all-departments/7701829?gh_jid=7701829 | Amazon Health (One Medical) | Family Physician - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7767671?gh_jid=7767671 | Amazon Health (One Medical) | Family Physician - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7444385?gh_jid=7444385 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Burlingame) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508135?gh_jid=7508135 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Castro) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7707881?gh_jid=7707881 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Clay St) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508139?gh_jid=7508139 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Cow Hollow) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508140?gh_jid=7508140 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Duboce Triangle) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508136?gh_jid=7508136 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Financial District Clay) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508141?gh_jid=7508141 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Hayes Valley) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7617089?gh_jid=7617089 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant, HIV Medicine (Castro) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508142?gh_jid=7508142 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Inner Sunset) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508143?gh_jid=7508143 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Mission Valencia) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508146?gh_jid=7508146 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Pacific Heights) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7580638?gh_jid=7580638 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7728131?gh_jid=7728131 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant- Sign On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7508150?gh_jid=7508150 | Amazon Health (One Medical) | Nurse Practitioner or Physician Assistant (Transbay Center) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671595?gh_jid=7671595 | Amazon Health (One Medical) | Primary Care Physician (Burlingame) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671599?gh_jid=7671599 | Amazon Health (One Medical) | Primary Care Physician (Castro) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7580595?gh_jid=7580595 | Amazon Health (One Medical) | Primary Care Physician (Clay) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671603?gh_jid=7671603 | Amazon Health (One Medical) | Primary Care Physician (Cow Hollow) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7671610?gh_jid=7671610 | Amazon Health (One Medical) | Primary Care Physician (Duboce Triangle) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671615?gh_jid=7671615 | Amazon Health (One Medical) | Primary Care Physician (Financial District Sutter) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671619?gh_jid=7671619 | Amazon Health (One Medical) | Primary Care Physician, HIV Medicine (Castro) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671625?gh_jid=7671625 | Amazon Health (One Medical) | Primary Care Physician (Inner Sunset) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671642?gh_jid=7671642 | Amazon Health (One Medical) | Primary Care Physician (Mission Valencia) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671634?gh_jid=7671634 | Amazon Health (One Medical) | Primary Care Physician (Noe Valley) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671650?gh_jid=7671650 | Amazon Health (One Medical) | Primary Care Physician (Pacific Heights) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7763096?gh_jid=7763096 | Amazon Health (One Medical) | Primary Care Physician -Senior Health (Part-Time) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7763059?gh_jid=7763059 | Amazon Health (One Medical) | Primary Care Physician (Senior Health) - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7370575?gh_jid=7370575 | Amazon Health (One Medical) | Primary Care Physician - Sign on Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7621912?gh_jid=7621912 | Amazon Health (One Medical) | Primary Care Physician - Sign on Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7670244?gh_jid=7670244 | Amazon Health (One Medical) | Primary Care Physician - Sign-On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7633627?gh_jid=7633627 | Amazon Health (One Medical) | Primary Care Physician - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671652?gh_jid=7671652 | Amazon Health (One Medical) | Primary Care Physician (Spear Street) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671653?gh_jid=7671653 | Amazon Health (One Medical) | Primary Care Physician (Transbay Center) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7671654?gh_jid=7671654 | Amazon Health (One Medical) | Primary Care Physician (Two Embarcadero Center) - Sign-On Bonus Available 
+- [ ] http://www.onemedical.com/careers/all-departments/7778325?gh_jid=7778325 | Amazon Health (One Medical) | Primary Care Provider - Sign On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7403246?gh_jid=7403246 | Amazon Health (One Medical) | Senior Health Primary Care Physician - Sign On Bonus Available
+- [ ] http://www.onemedical.com/careers/all-departments/7762891?gh_jid=7762891 | Amazon Health (One Medical) | Trainee Phlebotomist/Front Desk 
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7788457 | Omada Health | Associate Product Manager, Data Governance
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7800365 | Omada Health | Senior IT Engineer, AI Enablement
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7562427 | Omada Health | Senior Member Growth Manager
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7759052 | Omada Health | Senior Product Manager, Data Enablement
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5014500008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer (Digital Natives Business) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116927008 | Anthropic | Claude Evangelist, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic | Design Engineer, AI Capability Development (Education Labs)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | Anthropic | Engineering Manager, GPU (ML Accelerator)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140492008 | Anthropic | Engineering Manager, Vertical AI Products (Multiple Roles) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104754008 | Anthropic | Enterprise Account Executive, Retail
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149112008 | Anthropic | External Affairs, Australia
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Applied AI (Federal Civilian) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5064817008 | Anthropic | Head of Solutions Architects, Applied AI (Korea)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173031008 | Anthropic | Manager, Applied AI Solutions Architecture - Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5142110008 | Anthropic | Manager, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183983008 | Anthropic | Manager of Forward Deployed Engineering, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5115884008 | Anthropic | Manager of Solutions Architecture, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4778843008 | Anthropic | ML Infrastructure Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4949336008 | Anthropic | ML/Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5164616008 | Anthropic | Partner Manager DACH/CEE (AI Boutiques)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4950664008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5181852008 | Anthropic | Product Manager, API Growth
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985920008 | Anthropic | Product Manager, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127559008 | Anthropic | Product Manager, Consumer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153773008 | Anthropic | Product Manager, Monetization
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153924008 | Anthropic | Product Manager, Multi-Cloud Growth - Google
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119713008 | Anthropic | Research Engineer, Pretraining
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938432008 | Anthropic | Research Engineer, Pretraining Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938436008 | Anthropic | Research Engineer, Pretraining Scaling - London
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4613592008 | Anthropic | Research Engineer, Production Model Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5135168008 | Anthropic | Research Engineer / Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4616971008 | Anthropic | Research Engineer/Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139654008 | Anthropic | Research Lead, Training Insights
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097067008 | Anthropic | Research Product Manager, Model Behaviors
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101433008 | Anthropic | Security Architect, Applied AI 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183006008 | Anthropic | Senior Product Manager, Education Labs
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5062712008 | Anthropic | Solutions Architect, Applied AI (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065835008 | Anthropic | Solutions Architect, Applied AI (Digital Native Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079540008 | Anthropic | Solutions Architect, Applied AI (Federal Civilian)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140405008 | Anthropic | Solutions Architect, Applied AI (Government Technology)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic |  Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5031670008 | Anthropic | Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079511008 | Anthropic | Solutions Architect, Applied AI (National Security)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057258008 | Anthropic | Solutions Architect, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140403008 | Anthropic | Solutions Architect, Applied AI (State and Local Government, West)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5122119008 | Anthropic | Support Operations Specialist, AI Agent Management
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017903008 | Anthropic | Technical Deployment, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153761008 | Anthropic | Technical Deployment Lead, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research 
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7488337 | Recursion Pharmaceuticals | Staff Product Manager, Agentic Systems
+- [ ] https://jobs.ashbyhq.com/abridge/7745d77e-66a0-4175-89f4-1f18c4d3d405 | Abridge | Director, Product Management - AI/ML, Core Product
+- [ ] https://jobs.ashbyhq.com/abridge/c45524b6-96b2-49f0-9cd5-176b998d6ba7 | Abridge | Product Manager - Core Product Experiences
+- [ ] https://jobs.ashbyhq.com/abridge/a7365ce0-34cb-4345-a597-06cfa9a47454 | Abridge | Staff Product Manager, Data Platform
+- [ ] https://jobs.ashbyhq.com/abridge/65f6069e-1884-417a-aece-a58295301948 | Abridge | Head of Federal Government Affairs (Washington, DC.)
+- [ ] https://jobs.ashbyhq.com/abridge/f0f97277-44ba-401b-9839-69762b8c8249 | Abridge | Product Lead, Life Sciences (New Products)
+- [ ] https://jobs.ashbyhq.com/abridge/991c2527-c2f9-41bb-a68f-282581b78794 | Abridge | Product Manager, Payer Products
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8447511002 | Komodo Health | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8465754002 | Komodo Health | Senior AI Engagement Manager
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8447510002 | Komodo Health | Senior Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8452167002 | Komodo Health | Staff Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8423889002 | Komodo Health | Vice President, AI Engineering
+- [ ] https://www.pathai.com/careers/8308240002?gh_jid=8308240002 | PathAI | Associate Director, MLOps Engineering
+
+## Procesadas
+
+- [x] #007 | https://jobs.ashbyhq.com/abridge/c7db83a1-e32c-4df9-b1cf-394d1e91415e | Abridge | Senior Product Manager | 4.5/5 | PDF ❌
+- [x] #008 | https://jobs.ashbyhq.com/abridge/b7b472b3-603d-4c90-adda-beb4d2858955 | Abridge | Staff PM, Clinical Documentation Improvement | 4.2/5 | PDF ❌
+- [x] #003 | https://jobs.ashbyhq.com/ambiencehealthcare/04fdff4f-1f26-47bf-8d26-ffeb4149520d/application | Ambience Healthcare | AI-First PM | 3.2/5 | SKIP
+- [x] #009 | https://jobs.ashbyhq.com/anterior/fab8d7b7-1eec-412c-bf75-b47b5c0a4e0b | Anterior | Senior PM | 4.4/5 | PDF ❌
+- [x] #001 | https://jobs.ashbyhq.com/bayesianhealth/6587692e-a32c-4a49-9d96-a45d8c5d8caf | Bayesian Health | Lead PM, Clinical AI/ML | 4.3/5 | PDF ❌
+- [x] #006 | https://jobs.ashbyhq.com/Hippocratic%20AI/70992590-8c71-41c2-8c47-d43f8f1578f7/application | Hippocratic AI | PM, AI Agents | 2.5/5 | SKIP (onsite)
+- [x] #002 | https://job-boards.greenhouse.io/mavenclinic/jobs/8315626002 | Maven Clinic | Senior Director, Product, Healthcare | 4.0/5 | PDF ❌
+- [x] #005 | https://job-boards.greenhouse.io/modernhealth/jobs/7485558002 | Modern Health | VP of Product Management | 3.5/5 | LIKELY CLOSED
+- [x] #010 | https://jobs.lever.co/ekohealth/debc7bf9-47f7-4e24-a78a-8b2a6b88f8a4 | Eko Health | Director of Product | 4.0/5 | PDF ❌
+- [x] #004 | https://job-boards.greenhouse.io/springhealth66/jobs/4663711005 | Spring Health | Senior PM, AI & ML Platform | 2.8/5 | SKIP

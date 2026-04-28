@@ -1,0 +1,78 @@
+# Career-Ops Profile Configuration
+# Parul Chachra — Healthcare AI Product & Growth
+
+candidate:
+  full_name: "Parul Chachra"
+  email: "parulchachra@gmail.com"
+  phone: "650-438-7284"
+  location: "San Francisco Bay Area, CA"
+  linkedin: "linkedin.com/in/parul-chachra"
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Senior Product Manager, Healthcare AI"
+    - "Director of Product Management, AI"
+    - "Senior PM, Clinical AI"
+    - "Senior PM, Growth"
+    - "Director, Product Management"
+    - "Head of Product, Healthcare AI"
+  archetypes:
+    - name: "Healthcare AI Product Manager (IC)"
+      level: "Senior/Staff"
+      fit: "primary"      # IC Senior PM or Staff PM — deep execution, owns a product area
+    - name: "Healthcare AI Product Manager (Director)"
+      level: "Director"
+      fit: "primary"      # Director — leads team or is player-coach
+    - name: "AI Product Manager, Clinical/Regulated (IC)"
+      level: "Senior"
+      fit: "primary"
+    - name: "Growth Product Manager (IC or Director)"
+      level: "Senior/Director"
+      fit: "primary"
+    - name: "Digital Health Product Lead"
+      level: "Senior/Director"
+      fit: "secondary"
+    - name: "AI Product Strategist / GTM"
+      level: "Senior/Director"
+      fit: "secondary"
+
+narrative:
+  headline: "Healthcare AI product leader turning clinical complexity into scalable, compliant, human-centered products"
+  exit_story: >
+    10+ years spanning GE Healthcare hardware/software, Stanford MBA, Google X moonshots, pharma AI strategy,
+    and enterprise healthcare SaaS — I've seen AI in healthcare from every angle: device, drug, workflow, and platform.
+    My edge is translating deep clinical and regulatory context into products that actually get adopted by care teams.
+    Now targeting roles where AI is the core product, not a feature.
+  superpowers:
+    - "User research in complex regulated environments (clinicians, payers, pharma)"
+    - "Shipping human-in-the-loop AI in HIPAA/regulated contexts"
+    - "End-to-end ownership: discovery → PRD → ship → adoption metrics"
+    - "Cross-functional leadership across eng, data science, privacy, legal, clinical"
+    - "Market sizing and product strategy for 10B+ TAM opportunities (Google X)"
+  proof_points:
+    - name: "AI Care Management Platform @ Innovaccer"
+      hero_metric: "Supported $55M+ ARR expansion through improved adoption and retention"
+    - name: "Google X Healthtech Moonshots"
+      hero_metric: "Led 4 projects with combined market opportunity >$5B"
+    - name: "Pharma AI Segmentation @ Vertex"
+      hero_metric: "AI segmentation strategy for physician targeting on $11B drug portfolio"
+    - name: "GE Healthcare Product Portfolio"
+      hero_metric: "Led $700M CT & MRI portfolio strategy; trained 50+ sales professionals"
+
+compensation:
+  target_range: "$200K-280K"
+  currency: "USD"
+  minimum: "$170K"
+  location_flexibility: "Remote preferred, open to hybrid in Bay Area or major US hubs"
+
+location:
+  country: "United States"
+  city: "San Francisco Bay Area"
+  timezone: "PST"
+  visa_status: "No sponsorship needed"
+
+language:
+  modes_dir: modes   # default English modes

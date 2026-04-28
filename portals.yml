@@ -1,0 +1,578 @@
+# Portal Scanner Configuration — Parul Chachra
+# Healthcare AI Product & Growth roles
+
+title_filter:
+  positive:
+    # -- Product roles --
+    - "Product Manager"
+    - "Head of Product"
+    - "VP of Product"
+    - "Director of Product"
+    - "Chief Product Officer"
+    - "CPO"
+    - "Technical PM"
+    - "Product Lead"
+    # -- Growth roles --
+    - "Growth Product"
+    - "Head of Growth"
+    - "VP Growth"
+    - "Growth Manager"
+    - "Product Growth"
+    # -- AI/ML qualifier keywords (combine with above) --
+    - "AI"
+    - "ML"
+    - "GenAI"
+    - "Generative AI"
+    - "LLM"
+    - "Clinical AI"
+    - "Healthcare AI"
+    - "Digital Health"
+    - "Health Tech"
+    # -- Healthcare specific --
+    - "Care Management"
+    - "Care Coordination"
+    - "Population Health"
+    - "Clinical Workflow"
+    - "EHR"
+    - "Health Equity"
+    - "Value-Based Care"
+    - "Remote Patient Monitoring"
+    - "Clinical Decision Support"
+  negative:
+    - "Junior"
+    - "Associate PM"
+    - "Intern"
+    - "VP of Engineering"
+    - "Staff Engineer"
+    - "Data Scientist"
+    - "Software Engineer"
+    - "SWE"
+    - "iOS"
+    - "Android"
+    - "Frontend"
+    - "Backend"
+    - "DevOps"
+    - "SRE"
+    - "Salesforce Admin"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Gaming"
+    - "E-commerce"
+  seniority_boost:
+    - "Senior"
+    - "Lead"
+    - "Staff"
+    - "Principal"
+    - "Director"
+    - "Head"
+    - "VP"
+    - "Group"
+
+# -- Search queries --
+
+search_queries:
+
+  # -- Senior PM --
+  - name: Greenhouse — Senior PM Healthcare AI
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Product Manager" "healthcare AI" OR "clinical AI" OR "digital health" remote'
+    enabled: true
+
+  - name: Ashby — Senior PM Healthcare AI
+    query: 'site:jobs.ashbyhq.com "Senior Product Manager" "healthcare" OR "clinical" OR "health tech" AI remote'
+    enabled: true
+
+  - name: Lever — Senior PM Healthcare AI
+    query: 'site:jobs.lever.co "Senior Product Manager" "healthcare AI" OR "digital health" OR "clinical AI" remote'
+    enabled: true
+
+  # -- Director / Head of Product --
+  - name: Greenhouse — Director Head of Product Health
+    query: 'site:boards.greenhouse.io "Director of Product" OR "Head of Product" "healthcare" OR "health tech" OR "digital health" AI remote'
+    enabled: true
+
+  - name: Ashby — Director Head of Product Health
+    query: 'site:jobs.ashbyhq.com "Director of Product" OR "Head of Product" "healthcare" OR "clinical" AI'
+    enabled: true
+
+  # -- Broad PM (Senior + Director combined) --
+  - name: Greenhouse — Healthcare AI PM (Senior or Director)
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Product Manager" "healthcare AI" OR "clinical AI" OR "digital health" remote'
+    enabled: true
+
+  # -- Growth PM --
+  - name: Greenhouse — Growth PM Healthcare
+    query: 'site:boards.greenhouse.io "Growth Product Manager" OR "Head of Growth" "healthcare" OR "digital health" OR "health tech"'
+    enabled: true
+
+  - name: Ashby — Growth PM Healthcare
+    query: 'site:jobs.ashbyhq.com "Growth" "Product Manager" OR "Head of Growth" "healthcare" OR "digital health"'
+    enabled: true
+
+  # -- Broad healthcare AI PM search --
+  - name: LinkedIn / Wellfound — Healthcare AI PM
+    query: '"Product Manager" "healthcare AI" OR "clinical AI" OR "care management" OR "health equity" remote site:wellfound.com OR site:linkedin.com/jobs'
+    enabled: true
+
+  - name: YC Jobs — Digital Health PM
+    query: 'site:workatastartup.com "Product Manager" "digital health" OR "healthcare AI" OR "clinical" remote'
+    enabled: true
+
+  - name: Himalayas — Healthcare AI PM
+    query: 'site:himalayas.app "Product Manager" "healthcare" OR "digital health" OR "clinical AI" remote'
+    enabled: true
+
+  - name: HN Who's Hiring — Healthcare AI PM
+    query: 'site:news.ycombinator.com "Product Manager" "healthcare AI" OR "health tech" OR "digital health" remote'
+    enabled: true
+
+  - name: WeWorkRemotely — Digital Health PM
+    query: 'site:weworkremotely.com "Product Manager" "healthcare" OR "digital health" OR "AI"'
+    enabled: true
+
+# -- Tracked companies --
+# Healthcare AI, Digital Health, and Health Tech companies
+
+tracked_companies:
+
+  # -- Enterprise Healthcare AI / Care Management --
+
+  - name: Innovaccer
+    careers_url: https://innovaccer.com/careers
+    scan_method: websearch
+    scan_query: 'site:innovaccer.com/careers OR "innovaccer" jobs "Product" OR "Growth"'
+    notes: "Parul's current employer — monitor for internal moves or benchmarking only."
+    enabled: false
+
+  - name: Health Catalyst
+    careers_url: https://job-boards.greenhouse.io/healthcatalyst
+    api: https://boards-api.greenhouse.io/v1/boards/healthcatalyst/jobs
+    notes: "Healthcare data and analytics SaaS. Strong PM roles."
+    enabled: true
+
+  - name: Privia Health
+    careers_url: https://job-boards.greenhouse.io/priviahealth
+    api: https://boards-api.greenhouse.io/v1/boards/priviahealth/jobs
+    notes: "Physician enablement and value-based care platform."
+    enabled: true
+
+  - name: Arcadia
+    careers_url: https://arcadia.io/careers
+    scan_method: websearch
+    scan_query: '"arcadia.io" careers "Product Manager" OR "Growth"'
+    notes: "Population health management and value-based care analytics."
+    enabled: true
+
+  - name: Lightbeam Health
+    careers_url: https://lightbeamhealth.com/careers
+    scan_method: websearch
+    scan_query: '"lightbeamhealth" careers "Product" OR "PM"'
+    notes: "Population health and care management platform."
+    enabled: true
+
+  # -- Clinical AI / Decision Support --
+
+  - name: Abridge
+    careers_url: https://jobs.ashbyhq.com/abridge
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/abridge'
+    notes: "AI medical note-taking. Epic partnership. High growth."
+    enabled: true
+
+  - name: Nuance (Microsoft)
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Nuance" OR "DAX" "Product Manager" healthcare AI'
+    notes: "DAX Copilot for clinical documentation. MSFT subsidiary."
+    enabled: true
+
+  - name: Suki AI
+    careers_url: https://www.suki.ai/careers
+    scan_method: websearch
+    scan_query: '"suki.ai" careers "Product" OR "Growth"'
+    notes: "AI voice assistant for clinical documentation."
+    enabled: true
+
+  - name: Nabla
+    careers_url: https://jobs.ashbyhq.com/nabla
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/nabla'
+    notes: "Paris/NY. AI ambient clinical intelligence. Raised $30M."
+    enabled: true
+
+  - name: DeepScribe
+    careers_url: https://www.deepscribe.ai/careers
+    scan_method: websearch
+    scan_query: '"deepscribe" careers "Product" OR "PM" OR "Growth"'
+    notes: "AI medical scribe platform."
+    enabled: true
+
+  - name: Ambience Healthcare
+    careers_url: https://www.ambiencehealthcare.com/careers
+    scan_method: websearch
+    scan_query: '"ambiencehealthcare" OR "ambience healthcare" careers "Product"'
+    notes: "AI ambient documentation. Series B. UCSF, Kaiser partnerships."
+    enabled: true
+
+  # -- AI-enabled Care Navigation / Care Management --
+
+  - name: Accolade Health
+    careers_url: https://job-boards.greenhouse.io/accoladehealth
+    api: https://boards-api.greenhouse.io/v1/boards/accoladehealth/jobs
+    notes: "Personalized health and benefits navigation."
+    enabled: true
+
+  - name: Included Health
+    careers_url: https://job-boards.greenhouse.io/includedhealth
+    api: https://boards-api.greenhouse.io/v1/boards/includedhealth/jobs
+    notes: "Formerly Grand Rounds + Doctor on Demand. Care navigation + virtual care."
+    enabled: true
+
+  - name: Transcarent
+    careers_url: https://transcarent.com/careers
+    scan_method: websearch
+    scan_query: '"transcarent" careers "Product Manager" OR "Growth"'
+    notes: "AI-powered care navigation. Glen Tullman. $200M raised."
+    enabled: true
+
+  - name: Quantum Health
+    careers_url: https://quantum-health.com/careers
+    scan_method: websearch
+    scan_query: '"quantum-health" OR "quantum health" careers "Product" OR "PM"'
+    notes: "Healthcare navigation and care coordination."
+    enabled: true
+
+  - name: Brightline
+    careers_url: https://job-boards.greenhouse.io/brightlinehealth
+    api: https://boards-api.greenhouse.io/v1/boards/brightlinehealth/jobs
+    notes: "Pediatric and family behavioral health platform."
+    enabled: true
+
+  # -- Digital Health / Virtual Care --
+
+  - name: Teladoc Health
+    careers_url: https://job-boards.greenhouse.io/teladochealth
+    api: https://boards-api.greenhouse.io/v1/boards/teladochealth/jobs
+    notes: "Virtual care leader. AI triage and chronic care management."
+    enabled: true
+
+  - name: Hims & Hers
+    careers_url: https://job-boards.greenhouse.io/himshers
+    api: https://boards-api.greenhouse.io/v1/boards/himshers/jobs
+    notes: "DTC telehealth and wellness. Strong growth PM culture."
+    enabled: true
+
+  - name: Ro Health
+    careers_url: https://ro.co/careers
+    scan_method: websearch
+    scan_query: '"ro.co" OR "ro health" careers "Product Manager" OR "Growth"'
+    notes: "DTC telehealth. Strong product org."
+    enabled: true
+
+  - name: Carbon Health
+    careers_url: https://job-boards.greenhouse.io/carbonhealth
+    api: https://boards-api.greenhouse.io/v1/boards/carbonhealth/jobs
+    notes: "Hybrid primary and urgent care. AI documentation."
+    enabled: true
+
+  - name: Wheel
+    careers_url: https://www.wheel.com/careers
+    scan_method: websearch
+    scan_query: '"wheel.com" careers "Product" OR "PM" OR "Growth"'
+    notes: "Telehealth infrastructure platform."
+    enabled: true
+
+  # -- Health Equity & SDOH --
+
+  - name: Unite Us
+    careers_url: https://job-boards.greenhouse.io/uniteus
+    api: https://boards-api.greenhouse.io/v1/boards/uniteus/jobs
+    notes: "SDOH data network and care coordination. Health equity focus."
+    enabled: true
+
+  - name: Findhelp (Socialserve)
+    careers_url: https://findhelp.com/careers
+    scan_method: websearch
+    scan_query: '"findhelp" careers "Product Manager" OR "Growth"'
+    notes: "Social care network connecting patients to community resources."
+    enabled: true
+
+  - name: Signify Health (CVS)
+    careers_url: https://job-boards.greenhouse.io/signifyhealth
+    api: https://boards-api.greenhouse.io/v1/boards/signifyhealth/jobs
+    notes: "Home-based care and analytics. Acquired by CVS."
+    enabled: true
+
+  # -- Payer / Value-Based Care AI --
+
+  - name: Devoted Health
+    careers_url: https://job-boards.greenhouse.io/devotedhealth
+    api: https://boards-api.greenhouse.io/v1/boards/devotedhealth/jobs
+    notes: "Medicare Advantage + primary care. Tech-first payer."
+    enabled: true
+
+  - name: Cityblock Health
+    careers_url: https://job-boards.greenhouse.io/cityblock
+    api: https://boards-api.greenhouse.io/v1/boards/cityblock/jobs
+    notes: "Value-based care for complex, underserved populations."
+    enabled: true
+
+  - name: Nomi Health
+    careers_url: https://nomihealth.com/careers
+    scan_method: websearch
+    scan_query: '"nomihealth" careers "Product" OR "Growth"'
+    notes: "Employer health benefits and direct primary care."
+    enabled: true
+
+  - name: Centivo
+    careers_url: https://centivo.com/careers
+    scan_method: websearch
+    scan_query: '"centivo" careers "Product Manager" OR "Growth"'
+    notes: "Employer health plans with primary care focus."
+    enabled: true
+
+  # -- AI-first Health Startups (well-funded) --
+
+  - name: Anterior
+    careers_url: https://jobs.ashbyhq.com/anterior
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/anterior'
+    notes: "AI for prior authorization. $20M+ raised. Fast growing."
+    enabled: true
+
+  - name: Cohere Health
+    careers_url: https://job-boards.greenhouse.io/coherehealth
+    api: https://boards-api.greenhouse.io/v1/boards/coherehealth/jobs
+    notes: "AI-powered prior auth and care pathway platform."
+    enabled: true
+
+  - name: Fabric Health
+    careers_url: https://fabric.inc/careers
+    scan_method: websearch
+    scan_query: '"fabric.inc" OR "fabric health" careers "Product"'
+    notes: "Healthcare operations platform. AI triage and scheduling."
+    enabled: true
+
+  - name: Pair Team
+    careers_url: https://www.pairteam.com/careers
+    scan_method: websearch
+    scan_query: '"pairteam" careers "Product" OR "PM"'
+    notes: "Complex care management for Medicaid populations."
+    enabled: true
+
+  - name: Nuvation Bio / Tempus AI
+    careers_url: https://job-boards.greenhouse.io/tempus
+    api: https://boards-api.greenhouse.io/v1/boards/tempus/jobs
+    notes: "Tempus: AI-driven precision medicine and data analytics. IPO 2024."
+    enabled: true
+
+  - name: Flatiron Health (Roche)
+    careers_url: https://job-boards.greenhouse.io/flatiron
+    api: https://boards-api.greenhouse.io/v1/boards/flatiron/jobs
+    notes: "Oncology data and real-world evidence platform. Roche subsidiary."
+    enabled: true
+
+  - name: Veeva Systems
+    careers_url: https://jobs.lever.co/veeva
+    notes: "Life sciences cloud. Strong PM culture. Pharma + clinical."
+    enabled: true
+
+  - name: Doximity
+    careers_url: https://job-boards.greenhouse.io/doximity
+    api: https://boards-api.greenhouse.io/v1/boards/doximity/jobs
+    notes: "Physician network and telehealth. AI-assisted clinical tools."
+    enabled: true
+
+  - name: Epic Systems
+    careers_url: https://jobs.lever.co/epic
+    notes: "EHR market leader. AI feature expansion. Strong PM demand."
+    enabled: true
+
+  # -- Health AI platforms (broader) --
+
+  - name: Google Health
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Google Health" OR "health AI" "Product Manager" OR "Product Lead"'
+    notes: "Google Health / DeepMind Health. Strong pedigree match given Google X."
+    enabled: true
+
+  - name: Microsoft Health & Life Sciences
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Health" "Product Manager" AI OR "clinical AI"'
+    notes: "Azure Health Data Services, Nuance DAX. Strong AI + health intersection."
+    enabled: true
+
+  - name: Amazon Health (One Medical)
+    careers_url: https://job-boards.greenhouse.io/onemedical
+    api: https://boards-api.greenhouse.io/v1/boards/onemedical/jobs
+    notes: "Amazon / One Medical. AI-powered primary care."
+    enabled: true
+
+  - name: Verily (Alphabet)
+    careers_url: https://verily.com/careers
+    scan_method: websearch
+    scan_query: 'site:verily.com/careers "Product Manager" OR "Product Lead" AI health'
+    notes: "Alphabet precision health. Strong fit given Google X background."
+    enabled: true
+
+  - name: Apixio
+    careers_url: https://apixio.com/careers
+    scan_method: websearch
+    scan_query: '"apixio" careers "Product Manager" OR "Growth"'
+    notes: "AI-powered risk adjustment and coding for payers."
+    enabled: true
+
+  - name: Clarify Health
+    careers_url: https://job-boards.greenhouse.io/clarifyhealth
+    api: https://boards-api.greenhouse.io/v1/boards/clarifyhealth/jobs
+    notes: "Value-based care analytics. AI-powered provider performance."
+    enabled: true
+
+  # -- AI Labs with healthcare/life sciences PM roles --
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    notes: "Claude AI. Health/life sciences vertical PM roles emerging. Strong pedigree fit."
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    scan_method: websearch
+    scan_query: 'site:openai.com/careers "Product Manager" "health" OR "healthcare" OR "life sciences" OR "clinical"'
+    notes: "GPT-4 in healthcare. Health PM and clinical AI partnership roles."
+    enabled: true
+
+  # -- Large Health Systems / Payers (Optum, CVS, etc.) --
+
+  - name: Optum (UnitedHealth Group)
+    careers_url: https://careers.unitedhealthgroup.com
+    scan_method: websearch
+    scan_query: 'site:careers.unitedhealthgroup.com "Product Manager" OR "Head of Product" "AI" OR "digital" OR "analytics" remote'
+    notes: "Optum/UHG: massive health IT arm. AI, analytics, care management PM roles. Top-tier healthcare employer."
+    enabled: true
+
+  - name: CVS Health / Aetna
+    careers_url: https://jobs.cvshealth.com
+    scan_method: websearch
+    scan_query: 'site:jobs.cvshealth.com "Product Manager" "AI" OR "digital health" OR "analytics" remote'
+    notes: "CVS Health/Aetna. Digital health and AI PM roles post-Signify acquisition."
+    enabled: true
+
+  - name: Humana
+    careers_url: https://careers.humana.com
+    scan_method: websearch
+    scan_query: 'site:careers.humana.com "Product Manager" "AI" OR "digital" OR "analytics" remote'
+    notes: "Payer-turned-health company. Strong digital health and AI PM investment."
+    enabled: true
+
+  # -- Clinical AI / Medical AI (imaging, diagnostics, pathology) --
+
+  - name: Open Evidence
+    careers_url: https://www.openevidence.com/careers
+    scan_method: websearch
+    scan_query: '"openevidence" OR "open evidence" careers "Product" OR "PM" OR "Growth"'
+    notes: "AI for medical evidence synthesis. Used by clinicians for literature search. YC-backed."
+    enabled: true
+
+  - name: Viz.ai
+    careers_url: https://job-boards.greenhouse.io/vizai
+    api: https://boards-api.greenhouse.io/v1/boards/vizai/jobs
+    notes: "AI-powered stroke and cardiovascular care coordination. FDA-cleared."
+    enabled: true
+
+  - name: Aidoc
+    careers_url: https://job-boards.greenhouse.io/aidoc
+    api: https://boards-api.greenhouse.io/v1/boards/aidoc/jobs
+    notes: "Radiology AI and care coordination. aiOS platform. 1000+ hospital customers."
+    enabled: true
+
+  - name: PathAI
+    careers_url: https://job-boards.greenhouse.io/pathai
+    api: https://boards-api.greenhouse.io/v1/boards/pathai/jobs
+    notes: "AI pathology for oncology diagnostics. Roche partnership."
+    enabled: true
+
+  - name: Paige AI
+    careers_url: https://paige.ai/careers
+    scan_method: websearch
+    scan_query: '"paige.ai" careers "Product" OR "PM"'
+    notes: "FDA-approved AI for pathology. Oncology focus."
+    enabled: true
+
+  - name: Recursion Pharmaceuticals
+    careers_url: https://job-boards.greenhouse.io/recursionpharmaceuticals
+    api: https://boards-api.greenhouse.io/v1/boards/recursionpharmaceuticals/jobs
+    notes: "AI drug discovery. TechBio. Public (RXRX). Strong AI + pharma PM roles."
+    enabled: true
+
+  - name: Insilico Medicine
+    careers_url: https://insilico.com/careers
+    scan_method: websearch
+    scan_query: '"insilico.com" careers "Product" OR "PM"'
+    notes: "Generative AI for drug discovery. First AI-designed drug in trials."
+    enabled: true
+
+  # -- Mental Health & Behavioral Health AI --
+
+  - name: Spring Health
+    careers_url: https://job-boards.greenhouse.io/springhealth
+    api: https://boards-api.greenhouse.io/v1/boards/springhealth/jobs
+    notes: "Enterprise mental health. AI-powered precision mental healthcare. Unicorn."
+    enabled: true
+
+  - name: Lyra Health
+    careers_url: https://job-boards.greenhouse.io/lyrahealth
+    api: https://boards-api.greenhouse.io/v1/boards/lyrahealth/jobs
+    notes: "Employer mental health benefits. AI-guided matching. Unicorn."
+    enabled: true
+
+  - name: Headspace Health (Ginger)
+    careers_url: https://job-boards.greenhouse.io/headspace
+    api: https://boards-api.greenhouse.io/v1/boards/headspace/jobs
+    notes: "Mental health platform. B2B and consumer. AI coaching."
+    enabled: true
+
+  # -- Remote Patient Monitoring / Chronic Care AI --
+
+  - name: Biofourmis
+    careers_url: https://job-boards.greenhouse.io/biofourmis
+    api: https://boards-api.greenhouse.io/v1/boards/biofourmis/jobs
+    notes: "AI-powered remote patient monitoring and care management."
+    enabled: true
+
+  - name: Cadence
+    careers_url: https://cadence.care/careers
+    scan_method: websearch
+    scan_query: '"cadence.care" OR "cadence health" careers "Product" OR "PM"'
+    notes: "AI-powered remote patient monitoring for chronic conditions."
+    enabled: true
+
+  - name: Current Health (Best Buy Health)
+    careers_url: https://job-boards.greenhouse.io/bestbuyhealth
+    api: https://boards-api.greenhouse.io/v1/boards/bestbuyhealth/jobs
+    notes: "Best Buy Health / Current Health. Remote patient monitoring."
+    enabled: true
+
+  # -- Pharmacy & Medication Intelligence AI --
+
+  - name: Omada Health
+    careers_url: https://job-boards.greenhouse.io/omadahealth
+    api: https://boards-api.greenhouse.io/v1/boards/omadahealth/jobs
+    notes: "Digital chronic disease prevention. Strong PM culture. IPO expected."
+    enabled: true
+
+  - name: Novu Health / Novu Pharma
+    careers_url: https://www.novuhealth.com/careers
+    scan_method: websearch
+    scan_query: '"novuhealth" OR "novu health" careers "Product"'
+    notes: "AI-powered medication adherence and pharmacy."
+    enabled: true
+
+  - name: Komodo Health
+    careers_url: https://job-boards.greenhouse.io/komodohealth
+    api: https://boards-api.greenhouse.io/v1/boards/komodohealth/jobs
+    notes: "Healthcare intelligence and real-world data. AI for life sciences."
+    enabled: true

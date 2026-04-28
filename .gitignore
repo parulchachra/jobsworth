@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Generated outputs (large files, personal)
+output/
+batch/logs/
+batch/tracker-additions/
+batch/batch-state.tsv
+batch/batch-input.tsv
+
+# Scheduler state
+.scheduler.json
+
+# Playwright browser cache
+.playwright/
+
+# Environment / secrets
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
